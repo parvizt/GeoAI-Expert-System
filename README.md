@@ -24,4 +24,4 @@ An intelligent desktop application built with Python and PyQt5, designed for geo
 2. Install dependencies:
    `pip install -r requirements.txt`
 3. Run the application:
-   `python main.py`
+   `python Geoai_Expert.py`
