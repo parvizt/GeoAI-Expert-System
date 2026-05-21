@@ -20,7 +20,7 @@ An intelligent desktop application built with Python and PyQt5, designed for geo
 
 ## 🚀 How to Run
 1. Clone the repository:
-   `git clone https://github.com/YourUsername/GeoAI-Expert-System.git`
+   `git clone https://github.com/parvizt/GeoAI-Expert-System.git`
 2. Install dependencies:
    `pip install -r requirements.txt`
 3. Run the application:
