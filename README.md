@@ -3,7 +3,7 @@
 An intelligent desktop application built with Python and PyQt5, designed for geologists and petroleum engineers to analyze well data, run simulations, and make ML-based predictions.
 
 ## 🎥 Project Demo
-*(ویدئوی خود را با موس بگیرید و در این قسمت رها کنید تا گیت‌هاب آن را آپلود کند. کدی شبیه به این تولید می‌شود: [https://github.com/user/repo/assets/.../video.mp4])*
+preparing
 
 ## ✨ Key Features
 - **Rule-Based Chatbot:** An offline QA system for geological concepts.
