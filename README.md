@@ -4,8 +4,6 @@ Developed GeoAI Expert System, a Python/PyQt5-based intelligent desktop applicat
 Designed the system with a scalable architecture for future ingestion of geological and drilling reports into SQLite/SQL Server, enabling optimized search, structured data storage, and intelligent reporting capabilities.
 
 
-## 🎥 Project Demo
-preparing
 
 ## ✨ Key Features
 - **Rule-Based Chatbot:** An offline QA system for geological concepts.
