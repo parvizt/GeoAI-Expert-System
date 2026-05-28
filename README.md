@@ -1,6 +1,8 @@
 # GeoAI Expert System 🌍🤖
 
-An intelligent desktop application built with Python and PyQt5, designed for geologists and petroleum engineers to analyze well data, run simulations, and make ML-based predictions.
+Developed GeoAI Expert System, a Python/PyQt5-based intelligent desktop application for well data management, offline geological query handling, and ML-assisted analysis in petroleum and drilling workflows.
+Designed the system with a scalable architecture for future ingestion of geological and drilling reports into SQLite/SQL Server, enabling optimized search, structured data storage, and intelligent reporting capabilities.
+
 
 ## 🎥 Project Demo
 preparing
